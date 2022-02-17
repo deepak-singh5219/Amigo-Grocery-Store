@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "grocistore-6f07a",
+    "private_key_id": "db56125ed824b137dcb9b3cb6763834d4d52b1ef",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3TD/0YfTt+aar\nWrFDb+hfsbFEYkqZvBNKdvwNbW5Z016YOkknsLrv5hd6CxX2BUPCR9Mk97jxb7/a\n1pkGVWEKY0R9XKPyICG2AZCD4yKrRDrTrt3lQq556076tP5nyLsUWvGHGOw+k3SV\nzeML7Rly8+OhVeHaGJFOf8zCt7PejMSB0xP3qUF9hypUl8wuvEDqhJxYClV99Xjr\niopgIxcj3n2w9g3i1ChMzuFhsVfElMxDbh9+1w9BIvlM05kvuqedspv5cGTbkv2N\nqPTAR8J3QgmPbNPt6cCp7T7g+6OICOAN9IoVwKon4fcRNoy9wCFmzytqhDOqPBw6\ntElzBfojAgMBAAECggEAN3i2dCV/A9QFSh9QvRltaCR1Ar6CWCMwbV0z63ZeKoYK\nvyQIhp/3+ukV2sPnGgS+3FlzP2FO0ZZhp/9A4UdObl/bVtsF7J0nxpaTny5KjC1C\nZlSp55t2BQSe6sWCpnL7lu3s4Vc8C7YBVuKvnyjahkzj6yv8BU5hDzIjDByfLS7G\nm4rD31Tv/qSY3cqohJwTztjmeTmWYG4T8dg2eWvFtYKLdGEn/7L7NOesDh8xhJyD\nGi2cjC5jEnRogjEASYMDUxDcVGHqqz7BOeeCSgTaGqN3HJDGBnPl0JzTwXXjTA+/\n73ajW6FsnFeZ2W0T7AtCF1mp7mQx3oQ1KNVbMlMsuQKBgQDber/IadpKkxd2vs1J\nXUT4bsaHbeaNjEGKkVpgsEVGqKoPoaJmL9NLvhwL5gJ1Ytle/m/zUk7du3R4W4Xm\nwsJj+yqSAd9KT1f1dtvpDx92NvNbiPxnh6lKLfuQqzBjZaVI85Po5+28U4S4RLSV\nXitjAD03sSxyfEkfFQq4QB7pSQKBgQDVzEH7hR/LEW9dpGvc9DfReJ3ANtq8hvwP\nPdJsvvVjXvQczvSz9OwHtweLympYCszPd4rKNyso4fhfnub12qJUF0OXkK2l2xib\nl+lD7EjeRFO+I8QxD5k+SPOKdzapvMFPsj06DSoYrcmeyo9BqSAY61OSuUh4BG5t\nUZ5WWfZUCwKBgQCvEbaw8l6BZdstiPzPLGq7kAEkPfHNrrcJBPCGd5SKzDb6yP91\na2ir3jUY+Ju1bufc8i/ycxEdpU0+RCMG8wuEHPDUDlJCQA/1aJ35xWpfLW3o8dgD\n7R6IYS1tNGAgqQ+ypTiya24i7qvLIGK7UqZhDevG5LiDicf51xr55YvCoQKBgHRe\nG9/h4p8t2zbV4pu+FY+fHgXcFYyd0B4foSPtgDTZHvd7MbetbLb6SVIuF1nabwXR\nZCqSgpxa+kxZeg6BNO+eRfz+E3X93dP6iE2fEz5fZFFOuF+XxOog3OYV4xvaEEHn\nmum49pu+I8qZKAYuHrlRhQiMbsRcbRp1XUBU8P1nAoGBAJSD5ZD3AdvuOznJLsUz\nA5cfb3W1lFfs5Jtdj9DxPwP7OSqHH9hwYqjutZMRl7RhVdy+i5kkkYpSv3HTNCOy\n86/iOuJI6hq40NMNfbPniZj8RIlYlkBj4S2IrU+ZZ1qCSroiRQTbu8cofL4sHSGr\ni0vuB32oC9vDKUHx77Ny559t\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-mxk1b@grocistore-6f07a.iam.gserviceaccount.com",
+    "client_id": "103472352449488635363",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mxk1b%40grocistore-6f07a.iam.gserviceaccount.com"
+  }
