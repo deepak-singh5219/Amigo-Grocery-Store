@@ -39,11 +39,9 @@
 ![App Screenshot](https://github.com/rishabhthakur11/Groci-Store/blob/main/Website%20Screen%20Shot/Screenshot%202022-02-17%20at%2011.52.11%20AM.png)
  # Responsive Design
 
-![App Screenshot](https://github.com/rishabhthakur11/Groci-Store/blob/main/Website%20Screen%20Shot/Screenshot%202022-02-17%20at%2011.53.04%20AM.png)
+![App Screenshot](https://github.com/rishabhthakur11/Groci-Store/blob/main/Website%20Screen%20Shot/Screenshot%202022-05-26%20at%2011.58.30%20AM.png)
 
- ![App Screenshot](https://github.com/rishabhthakur11/Groci-Store/blob/main/Website%20Screen%20Shot/Screenshot%202022-02-17%20at%2011.53.10%20AM.png)
-# Demo
-
+ ![App Screenshot](https://github.com/rishabhthakur11/Groci-Store/blob/main/Website%20Screen%20Shot/Screenshot%202022-05-26%20at%2011.59.05%20AM.png)
 
 
 # Installation Steps
