@@ -5,16 +5,16 @@
 
 # Features
 
--Cards  for products
--Managing product using Cart
--Google Auth For users
--Easy to add products using API for Admin
--Payment Gateway to allow users to pay online (Stripe Payment)
--Responsive Design to give better user experience
--Firestore Database that adds products after successful payment
--Checkout Page where you can add or remove products from the basket
--Returns and orders page that help you to see your previous orders
--Simple and attractive  UI that enhance User experience
+- Cards  for products
+- Managing product using Cart
+- Google Auth For users
+- Easy to add products using API for Admin
+- Payment Gateway to allow users to pay online (Stripe Payment)
+- Responsive Design to give better user experience
+- Firestore Database that adds products after successful payment
+- Checkout Page where you can add or remove products from the basket
+- Returns and orders page that help you to see your previous orders
+- Simple and attractive  UI that enhance User experience
 
 
 # Technology Used
